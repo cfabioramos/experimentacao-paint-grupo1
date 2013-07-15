@@ -1,0 +1,4 @@
+ID da rede: SimulacaoCSM
+Senha: gesa
+
+IP a se conectar: 25.116.122.57
